@@ -48,6 +48,10 @@ const MyTask = () => {
 
   return (
     <div className="mt-20 w-full font-Poppins pl-[27px] pr-[86px]">
+
+      <h1 className="text-[40px] font font-semibold my-5">My Task</h1>
+
+
       {/* Search and Filter Btn */}
       <section className="flex items-center justify-between w-full">
         {/* Search Filed */}
