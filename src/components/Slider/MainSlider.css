@@ -53,6 +53,8 @@
 .swiper-button-prev::before {
   background-image: url("../../assets/prevbtn.png");
 }
+
+
 .swiper-button-prev {
   left: 750px;
 }

@@ -13,6 +13,7 @@ const Home = () => {
       <div className="absolute z-[99] bg-black bg-opacity-[40%]">
         <img src={img1} alt="" className="h-screen w-full" />
       </div>
+      
       <img
         src={img2}
         alt=""
